@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/auto_zone/static/css/main.1c0796d4.chunk.css",
+    "main.js": "/auto_zone/static/js/main.466d7e3a.chunk.js",
+    "main.js.map": "/auto_zone/static/js/main.466d7e3a.chunk.js.map",
+    "runtime-main.js": "/auto_zone/static/js/runtime-main.c9760057.js",
+    "runtime-main.js.map": "/auto_zone/static/js/runtime-main.c9760057.js.map",
+    "static/css/2.3c1ddb0a.chunk.css": "/auto_zone/static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.8d7f82e6.chunk.js": "/auto_zone/static/js/2.8d7f82e6.chunk.js",
+    "static/js/2.8d7f82e6.chunk.js.map": "/auto_zone/static/js/2.8d7f82e6.chunk.js.map",
+    "index.html": "/auto_zone/index.html",
+    "precache-manifest.6baa65155dd6a351f5795838a77bb84d.js": "/auto_zone/precache-manifest.6baa65155dd6a351f5795838a77bb84d.js",
+    "service-worker.js": "/auto_zone/service-worker.js",
+    "static/css/2.3c1ddb0a.chunk.css.map": "/auto_zone/static/css/2.3c1ddb0a.chunk.css.map",
+    "static/css/main.1c0796d4.chunk.css.map": "/auto_zone/static/css/main.1c0796d4.chunk.css.map",
+    "static/media/2.jpg": "/auto_zone/static/media/2.e3885d29.jpg",
+    "static/media/3.jpg": "/auto_zone/static/media/3.40459fb7.jpg",
+    "static/media/4.jpg": "/auto_zone/static/media/4.57bfd7fd.jpg",
+    "static/media/5.jfif": "/auto_zone/static/media/5.912f11fe.jfif",
+    "static/media/6.jfif": "/auto_zone/static/media/6.58da2f73.jfif",
+    "static/media/az-logo.svg": "/auto_zone/static/media/az-logo.6f51329a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9760057.js",
+    "static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.8d7f82e6.chunk.js",
+    "static/css/main.1c0796d4.chunk.css",
+    "static/js/main.466d7e3a.chunk.js"
+  ]
+}
